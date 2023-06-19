@@ -67,8 +67,8 @@ body {
   }
   
   section {
-    padding: 20px;
-    margin-top: 60px; /* Add margin to create space below the fixed navigation */
+    padding: 40px;
+    margin-top: 50px; /* Add margin to create space below the fixed navigation */
   }
   
   form label {
